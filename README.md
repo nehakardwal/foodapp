@@ -1,2 +1,2 @@
 # foodapp
-foodapp by using mern
+foodapp by using mern this is responsive website
